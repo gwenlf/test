@@ -1,0 +1,23 @@
+{
+  "name": "@gwenlf/dev",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "@gwenlf",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwenlf/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwenlf/test/issues"
+  },
+  "homepage": "https://github.com/gwenlf/test#readme"
+}
